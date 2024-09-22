@@ -1,2 +1,8 @@
-# delta-demo
-This is a Demo for Git &Github class..
+# delta-demo 
+This is a Demo for Git &amp; GitHub class.
+
+# Teacher 
+Shardha 
+
+# Student 
+Delta Student 
