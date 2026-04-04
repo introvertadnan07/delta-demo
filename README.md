@@ -8,3 +8,5 @@ database
 Aws database
 MongoDb Database
 docker 
+ollama 
+Claude ai 
