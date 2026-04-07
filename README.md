@@ -11,3 +11,4 @@ docker
 ollama 
 Claude ai 
 New update 
+database connection
